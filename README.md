@@ -53,7 +53,7 @@ Meu objetivo é evoluir continuamente como profissional de tecnologia, aprofunda
 
 <br/><br/>
 
-## 🎯 ÁREAS DE INTERESSE
+## ÁREAS DE INTERESSE
 
 - Automação de testes Web (E2E).
 - Testes de API e integração.
@@ -63,9 +63,9 @@ Meu objetivo é evoluir continuamente como profissional de tecnologia, aprofunda
 
 <br/><br/>
 
-## 📫 VAMOS CONVERSAR?
+## VAMOS CONVERSAR?
 
-<div align="center">
+<div>
 
 <a href="https://github.com/Borboletas-Edu">
 <img src="https://img.shields.io/badge/GitHub-Borboletas--Edu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
