@@ -1,106 +1,125 @@
 
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Edu - Quality Assurance"/>
+<img src="https://raw.githubusercontent.com/Borboletas-Edu/Borboletas-Edu/main/banner.png" width="100%" alt="Edu - QA Engineer"/>
 
-# Edu.
+# EDU.
 
-### QA Engineer | Software Quality & Test Automation
+### SOFTWARE QUALITY & TEST AUTOMATION
 
-Qualidade de software através de automação, estratégia de testes e melhoria contínua.
+Automação • Qualidade • Performance
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 SOBRE MIM
 
-Olá! Eu sou o Edu.
+Sou Edu, Analista de Qualidade de Software Jr., com foco em automação de testes e melhoria contínua.
 
-Atuo como **Analista de Qualidade de Software Jr.**, com foco em automação de testes e qualidade de aplicações.
+Tenho experiência prática com Python e Selenium, testes de API, análise de código e colaboração com equipes de desenvolvimento.
 
-Tenho experiência prática com **Python e Selenium**, testes de API, análise de código e colaboração com equipes de desenvolvimento.
-
-Atualmente, também exploro diferentes ferramentas e abordagens de automação, buscando desenvolver soluções cada vez mais reutilizáveis e eficientes.
+Meu foco é desenvolver soluções de automação organizadas, reutilizáveis e eficientes, explorando diferentes ferramentas e estratégias de teste.
 
 ---
 
-## 🧪 Tecnologias
+## ⚙️ AUTOMATION TOOLKIT
 
 <div align="center">
 
-### Automação de testes
+### WEB AUTOMATION
 
-<img src="https://skillicons.dev/icons?i=selenium,cypress,playwright" />
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 
-### Linguagens
+### PERFORMANCE TESTING
 
-<img src="https://skillicons.dev/icons?i=python,js" />
+<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
 
-### Performance Testing
+### PROGRAMMING LANGUAGES
 
-<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 </div>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 FEATURED PROJECTS
 
 <table>
 <tr>
-<td width="50%">
-<h3>🧪 Automação Web</h3>
+<td width="50%" valign="top">
+
+### 🧪 Web Automation
+
+**Testes Automatizados TCC EBAC**
+
+Projeto de conclusão de curso envolvendo automação E2E, API e Performance.
+
 <a href="https://github.com/Borboletas-Edu/Testes_Automatizados_TCC_EBAC">
-<strong>Testes Automatizados TCC EBAC</strong>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-268BFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<p>Projeto com testes E2E, API e Performance.</p>
+
 </td>
-<td width="50%">
-<h3>📱 Automação Mobile</h3>
+<td width="50%" valign="top">
+
+### 📱 Mobile Automation
+
+**Testes Automatizados Mobile**
+
+Repositório de estudos e automação de testes para aplicações mobile.
+
 <a href="https://github.com/Borboletas-Edu/Testes_Automatizados_Mobile">
-<strong>Testes Automatizados Mobile</strong>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-268BFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<p>Estudos e automação de testes para aplicações mobile.</p>
+
 </td>
 </tr>
 <tr>
-<td colspan="2">
-<h3>🌐 Cypress</h3>
+<td colspan="2" valign="top">
+
+### 🌐 Cypress & JavaScript
+
+**Atividades EBAC Cypress**
+
+Atividades práticas de automação de testes utilizando Cypress.
+
 <a href="https://github.com/Borboletas-Edu/Atividades-ebac-cypress">
-<strong>Atividades EBAC Cypress</strong>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-268BFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<p>Atividades práticas de automação utilizando Cypress e JavaScript.</p>
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🎯 Áreas de interesse
+## 🎯 AREAS OF INTEREST
 
-- Automação de testes Web (E2E).
-- Testes de API e integração.
-- Testes de performance e carga.
-- Arquitetura e organização de projetos de automação.
-- Qualidade de software e melhoria contínua.
+- End-to-End Testing
+- API & Integration Testing
+- Performance & Load Testing
+- Test Automation Architecture
+- Software Quality Engineering
 
 ---
 
 <div align="center">
 
-### 📫 Vamos conversar?
+### LET'S CONNECT
 
 <a href="https://github.com/Borboletas-Edu">
-<img src="https://img.shields.io/badge/GitHub-Borboletas--Edu-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/eduardo2005/">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br/>
+<br/><br/>
 
-**Qualidade é construída em cada detalhe.** 🚀
+**Quality is built into every detail.** 🚀
 
 </div>
