@@ -1,25 +1,26 @@
+ <div align="center">
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Borboletas-Edu/Borboletas-Edu/main/banner.png" width="100%" alt="Edu - QA Engineer"/>
+<img src="https://raw.githubusercontent.com/Borboletas-Edu/Borboletas-Edu/main/banner.jpeg" width="100%" alt="Edu - QA Engineer"/>
 
 # EDU.
 
-### SOFTWARE QUALITY & TEST AUTOMATION
+### QA ENGINEER | SOFTWARE QUALITY & TEST AUTOMATION
 
-Automação • Qualidade • Performance
+Automação • Qualidade • Performance • Melhoria contínua
 
 </div>
 
 ---
 
-## 👨‍💻 SOBRE MIM
+## 👨‍💻 Sobre mim
 
-Sou Edu, Analista de Qualidade de Software Jr., com foco em automação de testes e melhoria contínua.
+Olá! Eu sou o Edu.
 
-Tenho experiência prática com Python e Selenium, testes de API, análise de código e colaboração com equipes de desenvolvimento.
+Atuo como **Analista de Qualidade de Software Jr.**, com foco em automação de testes, qualidade de aplicações e melhoria contínua.
 
-Meu foco é desenvolver soluções de automação organizadas, reutilizáveis e eficientes, explorando diferentes ferramentas e estratégias de teste.
+Tenho experiência prática com **Python e Selenium**, testes de API, análise de código e colaboração com equipes de desenvolvimento.
+
+Estou constantemente aprimorando meus conhecimentos em diferentes ferramentas e abordagens de automação, explorando soluções reutilizáveis, boas práticas e novas arquiteturas de testes.
 
 ---
 
@@ -27,26 +28,26 @@ Meu foco é desenvolver soluções de automação organizadas, reutilizáveis e 
 
 <div align="center">
 
-### WEB AUTOMATION
+### 🌐 WEB AUTOMATION
 
-<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
 
-### PERFORMANCE TESTING
+### 📊 PERFORMANCE TESTING
 
-<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
+<img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" alt="k6"/>
 
-### PROGRAMMING LANGUAGES
+### 💻 PROGRAMMING LANGUAGES
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 
 </div>
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 🚀 PROJETOS EM DESTAQUE
 
 <table>
 <tr>
@@ -56,10 +57,10 @@ Meu foco é desenvolver soluções de automação organizadas, reutilizáveis e 
 
 **Testes Automatizados TCC EBAC**
 
-Projeto de conclusão de curso envolvendo automação E2E, API e Performance.
+Projeto de conclusão de curso envolvendo automação de testes E2E, API e Performance.
 
 <a href="https://github.com/Borboletas-Edu/Testes_Automatizados_TCC_EBAC">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-268BFF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-268BFF?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto"/>
 </a>
 
 </td>
@@ -69,10 +70,10 @@ Projeto de conclusão de curso envolvendo automação E2E, API e Performance.
 
 **Testes Automatizados Mobile**
 
-Repositório de estudos e automação de testes para aplicações mobile.
+Repositório dedicado a estudos e automação de testes para aplicações mobile.
 
 <a href="https://github.com/Borboletas-Edu/Testes_Automatizados_Mobile">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-268BFF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-268BFF?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto"/>
 </a>
 
 </td>
@@ -84,10 +85,10 @@ Repositório de estudos e automação de testes para aplicações mobile.
 
 **Atividades EBAC Cypress**
 
-Atividades práticas de automação de testes utilizando Cypress.
+Atividades práticas de automação de testes utilizando Cypress e JavaScript.
 
 <a href="https://github.com/Borboletas-Edu/Atividades-ebac-cypress">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-268BFF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-268BFF?style=for-the-badge&logo=github&logoColor=white" alt="Ver projeto"/>
 </a>
 
 </td>
@@ -96,26 +97,25 @@ Atividades práticas de automação de testes utilizando Cypress.
 
 ---
 
-## 🎯 AREAS OF INTEREST
+## 🎯 ÁREAS DE INTERESSE
 
-- End-to-End Testing
-- API & Integration Testing
-- Performance & Load Testing
-- Test Automation Architecture
-- Software Quality Engineering
+- Automação de testes Web (E2E).
+- Testes de API e integração.
+- Testes de performance e carga.
+- Arquitetura e organização de projetos de automação.
+- Qualidade de software e melhoria contínua.
 
 ---
 
+## 📫 VAMOS CONVERSAR?
+
 <div align="center">
 
-### LET'S CONNECT
-
 <a href="https://github.com/Borboletas-Edu">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Borboletas--Edu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://www.linkedin.com/in/eduardo2005/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
