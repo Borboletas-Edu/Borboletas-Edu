@@ -8,8 +8,7 @@ Automação • Qualidade • Performance
 
 </div>
 
----
-
+<br/><br/>
 
 ## Sobre mim
 
@@ -24,12 +23,12 @@ Estou constantemente explorando novas tecnologias, ferramentas e estratégias de
 Meu objetivo é evoluir continuamente como profissional de tecnologia, aprofundando meus conhecimentos em engenharia de testes e automação, com foco na minha evolução para **Software Development Engineer in Test (SDET)**.
 
 
----
+<br/><br/>
 
 
 ## AUTOMATION TOOLKIT
 
-### WEB AUTOMATION
+### 🖥️ WEB AUTOMATION
 
 <p>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" height="30"/>
@@ -37,14 +36,14 @@ Meu objetivo é evoluir continuamente como profissional de tecnologia, aprofunda
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="30"/>
 </p>
 
-### PERFORMANCE TESTING
+### 📊 PERFORMANCE TESTING
 
 <p>
   <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" height="30"/>
 </p>
 
-### PROGRAMMING LANGUAGES
+### </> PROGRAMMING LANGUAGES
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30"/>
@@ -52,7 +51,7 @@ Meu objetivo é evoluir continuamente como profissional de tecnologia, aprofunda
 </p>
 
 
----
+<br/><br/>
 
 ## 🎯 ÁREAS DE INTERESSE
 
@@ -62,7 +61,7 @@ Meu objetivo é evoluir continuamente como profissional de tecnologia, aprofunda
 - Arquitetura e organização de projetos de automação.
 - Qualidade de software e melhoria contínua.
 
----
+<br/><br/>
 
 ## 📫 VAMOS CONVERSAR?
 
