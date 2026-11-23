@@ -50,31 +50,3 @@ Meu objetivo é evoluir continuamente como profissional de tecnologia, aprofunda
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="30"/>
 </p>
 
-
-<br/><br/>
-
-## ÁREAS DE INTERESSE
-
-- Automação de testes Web (E2E).
-- Testes de API e integração.
-- Testes de performance e carga.
-- Arquitetura e organização de projetos de automação.
-- Qualidade de software e melhoria contínua.
-
-<br/><br/>
-
-## VAMOS CONVERSAR?
-
-<div>
-
-<a href="https://github.com/Borboletas-Edu">
-<img src="https://img.shields.io/badge/GitHub-Borboletas--Edu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/eduardo2005/">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-
-</div>
