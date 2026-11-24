@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="120" viewBox="0 0 1400 120">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3E8EA8"/>
+      <stop offset="45%" stop-color="#1E3A52"/>
+      <stop offset="100%" stop-color="#0F1E2E"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 88 Q 175.0 70 350.0 88 T 700.0 88 T 1050.0 88 T 1400.0 88 T 1750.0 88 T 2100.0 88 T 2450.0 88 T 2800.0 88 L 2800.0 0 L 0 0 Z" fill="#7FD3E6" opacity="0.25">
+    <animateTransform attributeName="transform" type="translate"
+      from="-700 0" to="0 0" dur="14s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 70 Q 140.0 56 280.0 70 T 560.0 70 T 840.0 70 T 1120.0 70 T 1400.0 70 T 1680.0 70 T 1960.0 70 T 2240.0 70 T 2520.0 70 T 2800.0 70 L 2800.0 0 L 0 0 Z" fill="#3E8EA8" opacity="0.45">
+    <animateTransform attributeName="transform" type="translate"
+      from="0 0" to="-560 0" dur="10s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0 54 Q 175.0 44 350.0 54 T 700.0 54 T 1050.0 54 T 1400.0 54 T 1750.0 54 T 2100.0 54 T 2450.0 54 T 2800.0 54 L 2800.0 0 L 0 0 Z" fill="url(#g)" opacity="1">
+    <animateTransform attributeName="transform" type="translate"
+      from="0 0" to="-700 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+  <text x="700.0" y="32" text-anchor="middle" font-size="17" fill="#E6EDF3"
+        font-family="'JetBrains Mono','Fira Code',Consolas,Menlo,monospace">
+    <tspan fill="#3FB950">✓</tspan> Obrigado pela visita!
+  </text>
+</svg>

@@ -1,52 +1,61 @@
- <div align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Borboletas-Edu/Borboletas-Edu/main/banner.jpeg" width="100%" alt="Edu - QA Engineer"/>
+<img src="./banner.svg" width="100%" alt="Eduardo - QA Engineer"/>
 
-### QA ENGINEER | SOFTWARE QUALITY & TEST AUTOMATION
-
-Automação • Qualidade • Performance 
+<a href="https://github.com/Borboletas-Edu">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=3E8EA8&center=true&vCenter=true&width=640&lines=QA+Engineer+%7C+Test+Automation;Cypress+%E2%80%A2+Playwright+%E2%80%A2+Selenium" alt="Typing SVG"/>
+</a>
 
 </div>
 
-<br/><br/>
+<br/>
 
-## Sobre mim
+## 🧪 Sobre mim
 
-Olá! Eu sou o Edu.
+```gherkin
+# language: pt
+Funcionalidade: Conhecer o Edu
 
-Sou profissional de **Qualidade de Software**, com grande interesse em automação de testes e desenvolvimento. Acredito que a qualidade não está apenas na validação de funcionalidades, mas também na construção de estruturas de testes eficientes, reutilizáveis e sustentáveis.
+  Cenário: Visitante abre o perfil
+    Dado que eu sou um profissional de Qualidade de Software
+    E automatizo testes com Cypress, Playwright e Selenium
+    Quando eu estruturo projetos em Page Objects, Flows e Data
+    Então os testes ficam eficientes, reutilizáveis e sustentáveis
+    E eu sigo evoluindo rumo a Software Development Engineer in Test
+```
 
-Tenho experiência prática com **Cypress, Playwright e Selenium**, desenvolvendo projetos reais com diferentes abordagens de automação e arquiteturas organizadas em camadas, como Page Objects, Flows e Data, buscando sempre melhorar a organização, escalabilidade e manutenção dos projetos.
+Olá! Eu sou o **Edu**, profissional de **Qualidade de Software** com grande interesse em automação de testes e desenvolvimento.
 
-Estou constantemente explorando novas tecnologias, ferramentas e estratégias de testes, buscando aprimorar não apenas a execução das automações, mas também a forma como elas são planejadas, estruturadas e integradas ao desenvolvimento de software.
+Para mim, qualidade vai além de validar funcionalidades: está em construir **estruturas de testes eficientes, reutilizáveis e sustentáveis**.
 
-Meu objetivo é evoluir continuamente como profissional de tecnologia, aprofundando meus conhecimentos em engenharia de testes e automação, com foco na minha evolução para **Software Development Engineer in Test (SDET)**.
+Tenho experiência prática com **Cypress, Playwright e Selenium** em projetos reais, aplicando diferentes abordagens de automação e arquiteturas em camadas, como **Page Objects, Flows e Data**, sempre buscando mais organização, escalabilidade e facilidade de manutenção.
+
+Estou constantemente explorando novas tecnologias, ferramentas e estratégias de testes, aprimorando não só a execução das automações, mas também a forma como elas são **planejadas, estruturadas e integradas** ao desenvolvimento de software.
+
+> 🎯 **Objetivo:** evoluir continuamente em engenharia de testes e automação, rumo a **Software Development Engineer in Test (SDET)**.
+
+<br/>
 
 
-<br/><br/>
+## 🖥️ Automation Toolkit
 
+<div align="center">
+  <img src="./toolkit.svg" width="100%" alt="Automation Toolkit: Cypress, Playwright, Selenium, k6, JMeter, Python e JavaScript"/>
+</div>
 
-## AUTOMATION TOOLKIT
+<br/>
 
-### 🖥️ WEB AUTOMATION
+## 📈 Test Report
 
-<p>
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" height="30"/>
-</p>
+```diff
+  Perfil: Edu
++ ✔ curiosidade técnica ........................ passed
++ ✔ automação em camadas ....................... passed
++ ✔ foco em manutenção e escalabilidade ......... passed
++ ✔ aprendizado contínuo ........................ passed
+! ◌ SDET ........................................ in progress
+```
 
-### 📊 PERFORMANCE TESTING
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" height="30"/>
-</p>
-
-### </> PROGRAMMING LANGUAGES
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="30"/>
-</p>
-
+<img src="./footer.svg" width="100%" alt="Obrigado pela visita"/>
